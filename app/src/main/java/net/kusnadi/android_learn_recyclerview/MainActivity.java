@@ -36,5 +36,11 @@ public class MainActivity extends AppCompatActivity {
         persons.add(new Person("Kusnadi", "23 years old", R.drawable.docker));
         persons.add(new Person("Engkus", "25 years old", R.drawable.docker));
         persons.add(new Person("Kunay", "35 years old", R.drawable.docker));
+        persons.add(new Person("Subur", "23 years old", R.drawable.docker));
+        persons.add(new Person("Denong", "25 years old", R.drawable.docker));
+        persons.add(new Person("Denoy", "35 years old", R.drawable.docker));
+        persons.add(new Person("Ryan", "23 years old", R.drawable.docker));
+        persons.add(new Person("Rigas", "25 years old", R.drawable.docker));
+        persons.add(new Person("Ian", "35 years old", R.drawable.docker));
     }
 }
